@@ -1,0 +1,15 @@
+C:\Users\sasha\source\repos\sem1\sem1\bin\Debug\net6.0\sem1.exe
+C:\Users\sasha\source\repos\sem1\sem1\bin\Debug\net6.0\sem1.deps.json
+C:\Users\sasha\source\repos\sem1\sem1\bin\Debug\net6.0\sem1.runtimeconfig.json
+C:\Users\sasha\source\repos\sem1\sem1\bin\Debug\net6.0\sem1.dll
+C:\Users\sasha\source\repos\sem1\sem1\bin\Debug\net6.0\sem1.pdb
+C:\Users\sasha\source\repos\sem1\sem1\obj\Debug\net6.0\sem1.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\sem1\sem1\obj\Debug\net6.0\sem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\sem1\sem1\obj\Debug\net6.0\sem1.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\sem1\sem1\obj\Debug\net6.0\sem1.AssemblyInfo.cs
+C:\Users\sasha\source\repos\sem1\sem1\obj\Debug\net6.0\sem1.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\sem1\sem1\obj\Debug\net6.0\sem1.dll
+C:\Users\sasha\source\repos\sem1\sem1\obj\Debug\net6.0\refint\sem1.dll
+C:\Users\sasha\source\repos\sem1\sem1\obj\Debug\net6.0\sem1.pdb
+C:\Users\sasha\source\repos\sem1\sem1\obj\Debug\net6.0\sem1.genruntimeconfig.cache
+C:\Users\sasha\source\repos\sem1\sem1\obj\Debug\net6.0\ref\sem1.dll
