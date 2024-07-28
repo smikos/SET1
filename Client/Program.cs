@@ -44,8 +44,12 @@ namespace sem1
                         string message = Console.ReadLine();
                         var messageJson = new Message() { Date = DateTime.Now, FromName = name, Text = message }.ToJson();
                         byte[] replyBytes = Encoding.ASCII.GetBytes(messageJson);
-                        udpClient.Send(replyBytes, replyBytes.Length, remoteEndPoint);
-                        Console.WriteLine("Сообщение отправлено.");
+                        if (message != "Exit")
+                        {
+                            udpClient.Send(replyBytes, replyBytes.Length, remoteEndPoint);
+                            Console.WriteLine("Сообщение отправлено.");
+                        }
+                        else { break; }
                     }
                     catch (Exception ex)
                     {
